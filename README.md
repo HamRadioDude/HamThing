@@ -1,4 +1,4 @@
-Hi Please note,
+Hi Please note,  More updated files are located on my main github, and more projects, as well.   
 
 
 These files are for reference to be used with AI (I used Claude) to build you apps for your Spotify Car Thing / Deksthing applicication.  If something doesn't work perfect, don't be upset with me, please. Instead, work to build 
@@ -6,6 +6,8 @@ this to a better knowledge base.
 
 
 Even if you aren't a ham, This documentation has been made to be used to build nearly any Spotify car thing app!
+
+Please give me a shoutout or some sort of recognition if you are going to use these/share them/etc.  
 
 Requirements, 
 
